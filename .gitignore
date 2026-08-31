@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.idea/
+.tempmediaStorage/
+tracking/*.jsonl
+report_assets/*.png
+*.pkl
+models/**/replay_buffer*
+tracking/candidates/
